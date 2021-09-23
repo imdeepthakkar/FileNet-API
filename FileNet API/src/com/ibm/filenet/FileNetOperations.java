@@ -81,7 +81,7 @@ public class FileNetOperations {
 		}*/
 		
 		try{
-			obj.updateDocument(objOS, "Employee", "{C810AD1D-735E-4ABC-B041-EA19021F5EC0}");
+			obj.updateDocument(objOS, "Employee", "{23DBE563-E579-41FB-95CF-96D9C9B555ED}");
 		} catch (Exception e){
 			e.printStackTrace();
 		}
